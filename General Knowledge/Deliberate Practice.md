@@ -1,0 +1,5 @@
+- How to practice:
+	- Set stretch goal
+	- improve specific weaknesses
+	- reach stretch goal
+	- start with new stretch goal

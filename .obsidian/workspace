@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "9399b1147fa68a75",
+    "type": "split",
+    "children": [
+      {
+        "id": "240c0810372202bf",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "References/Grit - Angela Duckworth.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a07d00ed588b88c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6683cd761b281fcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0209b0a2dc0a0f62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "62523c7464e651eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef815e6b2366c366",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb6e9f160e1a660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df5089fe1189047a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "References/Grit - Angela Duckworth.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "References/Grit - Angela Duckworth.md",
+    "Deliberate Practice.md",
+    "References/Untitled.md",
+    "References/Atomic Habits.md",
+    "Slip Box/2. STOICISM.md",
+    "Slip Box/1. HABITS.md",
+    "Slip Box/1.1 Identity Based Habits.md",
+    "Slip Box/1.2 How to Create New Habits.md",
+    "Literature Notes/Atomic Habits.md",
+    "Untitled.md"
+  ]
+}
