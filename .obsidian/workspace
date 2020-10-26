@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "References/Grit - Angela Duckworth.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "References/Grit - Angela Duckworth.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -76,15 +71,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "References/Atomic Habits - James Clear.md",
+    "References/Lex Fridman Podcast #132, George Hotz.md",
+    "Evergreen Notes/Untitled.md",
     "References/Grit - Angela Duckworth.md",
-    "Deliberate Practice.md",
     "References/Untitled.md",
+    "General Knowledge/Deliberate Practice.md",
+    "Deliberate Practice.md",
     "References/Atomic Habits.md",
     "Slip Box/2. STOICISM.md",
-    "Slip Box/1. HABITS.md",
-    "Slip Box/1.1 Identity Based Habits.md",
-    "Slip Box/1.2 How to Create New Habits.md",
-    "Literature Notes/Atomic Habits.md",
-    "Untitled.md"
+    "Slip Box/1. HABITS.md"
   ]
 }

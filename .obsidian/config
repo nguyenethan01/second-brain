@@ -8,8 +8,12 @@
     "backlink": true,
     "command-palette": true,
     "markdown-importer": true,
-    "word-count": true
+    "word-count": true,
+    "page-preview": true,
+    "custom-css": true,
+    "templates": true
   },
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "foldHeading": true
 }
