@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "References/Paul Graham - How to get Startup Ideas.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -45,7 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 415
   },
   "right": {
     "id": "ef815e6b2366c366",
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "References/Paul Graham - How to get Startup Ideas.md"
+              }
             }
           }
         ]
@@ -71,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "References/Atomic Habits - James Clear.md",
+    "Untitled.md",
+    "References/Jared Friedman - How to Get Startup Ideas.md",
     "References/Lex Fridman Podcast #132, George Hotz.md",
+    "References/Money as an Instrument of Change - Chamath Palijhapitiya.md",
+    "References/Paul Graham - Why to not not start a startup.md",
+    "Sam Altman - Hard Startups.md",
+    "SISP.md",
+    "Evergreen Notes/Startups/Untitled.md",
     "Evergreen Notes/Untitled.md",
-    "References/Grit - Angela Duckworth.md",
-    "References/Untitled.md",
-    "General Knowledge/Deliberate Practice.md",
-    "Deliberate Practice.md",
-    "References/Atomic Habits.md",
-    "Slip Box/2. STOICISM.md",
-    "Slip Box/1. HABITS.md"
+    "References/Untitled.md"
   ]
 }

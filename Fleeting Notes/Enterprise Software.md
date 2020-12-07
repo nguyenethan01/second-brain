@@ -1,0 +1,1 @@
+Also known as EAS, is used to satisfy needs of an organization rather than consumers / users. 

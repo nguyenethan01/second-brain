@@ -1,0 +1,1 @@
+term used at yc, stands for solution in search of a problem, start with the problem first, not the solution
