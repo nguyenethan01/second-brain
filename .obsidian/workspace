@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "References/Paul Graham - How to get Startup Ideas.md",
+            "file": "Eric Migicovsky - Startup School - How to Talk to Users.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/Paul Graham - How to get Startup Ideas.md"
+                "file": "Eric Migicovsky - Startup School - How to Talk to Users.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -76,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Eric Migicovsky - Startup School - How to Talk to Users.md",
+    "Superhuman blog about product market fit engine.md",
+    "Marc Andreessen - Product Market Fit.md",
+    "Eric Migicovsky -Startup School - How to Talk to Users.md",
+    "Rob Fitzpatrick - The Mom Test.md",
     "Untitled.md",
-    "References/Jared Friedman - How to Get Startup Ideas.md",
-    "References/Lex Fridman Podcast #132, George Hotz.md",
-    "References/Money as an Instrument of Change - Chamath Palijhapitiya.md",
-    "References/Paul Graham - Why to not not start a startup.md",
-    "Sam Altman - Hard Startups.md",
-    "SISP.md",
-    "Evergreen Notes/Startups/Untitled.md",
-    "Evergreen Notes/Untitled.md",
-    "References/Untitled.md"
+    "References/Tim Ferris - Daniel Ek.md",
+    "Ben Horowitz - Hard Things About Hard Things.md",
+    "Paul Graham - Maker's Schedule.md",
+    "Walter Isaacson - Leonardo Da Vinci.md"
   ]
 }
