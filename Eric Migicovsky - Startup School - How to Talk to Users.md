@@ -57,4 +57,4 @@ More reading material:
 
 [[Rob Fitzpatrick - The Mom Test]]
 [[Marc Andreessen - Product Market Fit]]
-[[Superhuman blog about product market fit engine]]
+[[Rahul Vohra - blog about product market fit engine]]

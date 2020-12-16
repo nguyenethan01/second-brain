@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eric Migicovsky - Startup School - How to Talk to Users.md",
-            "mode": "source"
+            "file": "References/Jared Friedman - How to Get Startup Ideas.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "seibel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eric Migicovsky - Startup School - How to Talk to Users.md",
+                "file": "References/Jared Friedman - How to Get Startup Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +87,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "References/Jared Friedman - How to Get Startup Ideas.md",
+    "References/Paul Graham - Why to not not start a startup.md",
+    "References/Atomic Habits - James Clear.md",
+    "References/Adora Cheung - How to Proritize Your Time (Startup School).md",
     "Eric Migicovsky - Startup School - How to Talk to Users.md",
-    "Superhuman blog about product market fit engine.md",
-    "Marc Andreessen - Product Market Fit.md",
-    "Eric Migicovsky -Startup School - How to Talk to Users.md",
-    "Rob Fitzpatrick - The Mom Test.md",
-    "Untitled.md",
-    "References/Tim Ferris - Daniel Ek.md",
-    "Ben Horowitz - Hard Things About Hard Things.md",
     "Paul Graham - Maker's Schedule.md",
-    "Walter Isaacson - Leonardo Da Vinci.md"
+    "Paul Graham - How to Apply to Y Combinator.md",
+    "Marc Andreessen - Product Market Fit.md",
+    "Kevin Hale - How to Pitch Your Startup (The Essay).md",
+    "References/Untitled.md"
   ]
 }
