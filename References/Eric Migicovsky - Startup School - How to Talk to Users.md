@@ -1,4 +1,4 @@
-Best founders maintain direct connection to users throughout lifespan of company
+Best founders maintain direct connection to users throughout lifespan of company ^cb548e
 
 Cannot outsource to sales, heads of product
 

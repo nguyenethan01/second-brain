@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "240c0810372202bf",
+        "id": "72460c535ffd1647",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marc Andreessen -  On Productivity, Scheduling, Reading Habits, Work, and More.md",
+            "file": "Day Planners/Day Planner-20210101.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "b8994295a0da7917"
+      },
+      {
+        "id": "a646ffecb89624ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20210101.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b8994295a0da7917"
       }
     ],
     "direction": "vertical"
@@ -49,7 +62,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -64,37 +78,65 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d3d6eb8c4cdf4395",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "fa237cebfee3093d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day Planners/Day Planner-20210101.md"
+              }
+            }
+          },
+          {
             "id": "df5089fe1189047a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marc Andreessen -  On Productivity, Scheduling, Reading Habits, Work, and More.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Day Planners/Day Planner-20210101.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "343929449a1e8266",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 576
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Evergreen Notes/Money/Untitled.md",
-    "Evergreen Notes/Startups/2. Startups.md",
-    "Eric Migicovsky - Startup School - How to Talk to Users.md",
-    "References/Adora Cheung - How to Proritize Your Time (Startup School).md",
-    "Evergreen Notes/Habits/1.2 How to Create New Habits.md",
-    "References/Jared Friedman - How to Get Startup Ideas.md",
-    "References/Paul Graham - Why to not not start a startup.md",
+    "Day Planners/Day Planner-20210101.md",
+    "References/Kevin Hale - How to Work Together (Startup School).md",
+    "References/Kevin Hale - How to Pitch Your Startup (Startup School).md",
+    "2021-01-01.md",
     "References/Atomic Habits - James Clear.md",
-    "Paul Graham - Maker's Schedule.md"
+    "Untitled.md",
+    "Paul Graham - Maker's Schedule.md",
+    "Ben Horowitz - Hard Things About Hard Things.md",
+    "Walter Isaacson - Leonardo Da Vinci.md",
+    "Sam Altman - Hard Startups.md"
   ]
 }

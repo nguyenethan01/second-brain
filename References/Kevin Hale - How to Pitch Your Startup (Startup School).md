@@ -1,3 +1,6 @@
+
+
+
 Source: https://www.ycombinator.com/library/6q-how-to-pitch-your-startup
 
 Startup Idea: Hypothesis for why your company will grow really quickly
